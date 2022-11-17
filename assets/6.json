@@ -1,20 +1,20 @@
 {
-    "name": "Studious Crab #6",
-    "symbol": "CRAB",
-    "description": "The Studious Crabs are smart and productive crabs.",
+    "name": "Goritoto NFT #6",
+    "symbol": "GRT",
+    "description": "Your Favourite Zimbabwean Myth",
     "image": "6.png",
     "attributes": [
         {
+            "trait_type": "accessory",
+            "value": "lamp"
+        },
+        {
             "trait_type": "chair",
-            "value": "brown"
+            "value": "red"
         },
         {
-            "trait_type": "accessory",
-            "value": "laptop"
-        },
-        {
-            "trait_type": "accessory",
-            "value": "whiteboard"
+            "trait_type": "books",
+            "value": "blue"
         }
     ],
     "properties": {
@@ -25,4 +25,5 @@
             }
         ]
     }
+
 }
