@@ -5,16 +5,8 @@
     "image": "14.png",
     "attributes": [
         {
-            "trait_type": "accessory",
-            "value": "lamp"
-        },
-        {
-            "trait_type": "chair",
-            "value": "red"
-        },
-        {
-            "trait_type": "books",
-            "value": "blue"
+            "trait_type": "color",
+            "value": "ready_to_bleed"
         }
     ],
     "properties": {
